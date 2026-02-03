@@ -3,7 +3,8 @@ _*
 *zip
 *err
 *wp?
-.DS_Stor*
+.DS_Store
 venv/*
 .github/workflows/*
 Makefile
+ruff.*
